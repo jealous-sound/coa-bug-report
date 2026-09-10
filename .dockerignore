@@ -1,0 +1,6 @@
+*
+!app.py
+!github.py
+!gunicorn.conf.py
+!requirements.txt
+!Dockerfile
